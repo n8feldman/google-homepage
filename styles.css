@@ -1,0 +1,20 @@
+#content-container {
+    font-family: arial, sans-serif;
+}
+#nav-bar {
+    position: absolute;
+    margin: 10px 0 0 7px;
+}
+#nav-bar a{
+    float: left;
+    text-align: center;
+}
+#nav-right a{
+    float: right;
+}
+#search-form {
+
+}
+#foot {
+
+}
